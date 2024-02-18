@@ -1,0 +1,19 @@
+html{
+    color-scheme:dark ;
+}
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;  
+    perspective: 1000px;
+}
+div{
+    width:200px;
+    letter-spacing: 0.1rem;
+    line-height: 20px;
+    outline: 3px solid limegreen;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
